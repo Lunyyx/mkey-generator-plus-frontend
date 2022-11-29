@@ -107,7 +107,7 @@ function App() {
         
         <br /><br />
 
-        <label>{key && `Your master key: ${key}` || error}</label>
+        <label>{key && (`Your master key: ${key}` || error)}</label>
       </form>
     </>
   );
