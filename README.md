@@ -29,5 +29,5 @@ npm install
 
 5. Start the server
 ```
-node index
+npm start
 ```
