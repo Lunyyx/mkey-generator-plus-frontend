@@ -6,7 +6,7 @@ MKey Generator Plus is a React.JS unofficial version of the [official MKey Gener
 
 ## Prerequisites
 
-⚠ You need to start the [MKey Generator Plus backend](https://github.com/Lunyyx/mkey-generator-plus-backend/edit/master/README.md) before starting this.
+⚠ You need to start the [MKey Generator Plus backend](https://github.com/Lunyyx/mkey-generator-plus-backend) before starting this.
 
 ## Usage
 
