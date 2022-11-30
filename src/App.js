@@ -32,10 +32,12 @@ function App() {
         <label>Device:</label><br />
         <select onChange={(e) => setDevice(e.target.value)}>
           <option value="CTR">3DS</option>
+          {/*
           <option value="WUP">Wii U</option>
           <option value="TWL">DSi</option>
           <option value="RVL">Wii</option>
           <option value="HAC">Switch</option>
+          */}
         </select>
 
         <br /><br />
@@ -107,7 +109,7 @@ function App() {
         
         <br /><br />
 
-        <label>{key && (`Your master key: ${key}` || error)}</label>
+        <label>{(key && (`Your master key: ${key}`)) || error}</label>
       </form>
     </>
   );
