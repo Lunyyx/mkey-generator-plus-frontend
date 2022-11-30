@@ -31,3 +31,7 @@ npm install
 ```
 npm start
 ```
+
+## Ressources
+
+[Icones8](https://icones8.fr/): favicon source
